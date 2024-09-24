@@ -72,3 +72,16 @@ The `data.py` file contains the `DataProgram` class, which is responsible for ma
 - Updates the internal balance attribute and writes the balance to the file in a formatted manner.
 
 This file provides the essential functionality for persisting the account balance data, ensuring that the balance is read from and written to a file as needed.
+
+## How to Operate the Account Management System
+
+### Prerequisites
+- Ensure you have Python installed on your system.
+- Clone the repository or download the necessary files (`main.py`, `operations.py`, `data.py`).
+
+### Running the Program
+1. Open a terminal or command prompt.
+2. Navigate to the directory containing the files.
+3. Run the following command to start the program:
+   ```sh
+   python main.py
