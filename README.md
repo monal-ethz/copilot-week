@@ -54,8 +54,8 @@ This file provides the core functionality for performing operations on the accou
 The data.py file contains the DataProgram class, which is responsible for managing the account balance data. This class handles reading the balance from a file and writing the balance to a file. Below is a brief explanation of the key components and functionality:
 
 - Initialization:
-- - The DataProgram class is initialized with a filename (default is 'balance.dat') and a default balance of 1000.00.
-- - It calls the read_balance() method to read the balance from the file during initialization.
+ - The DataProgram class is initialized with a filename (default is 'balance.dat') and a default balance of 1000.00.
+ - It calls the read_balance() method to read the balance from the file during initialization.
 
 - Read Balance Method:
 - - The read_balance() method attempts to read the balance from the specified file.
